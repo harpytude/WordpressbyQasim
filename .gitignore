@@ -1,6 +1,7 @@
 # All the files and folder will be ignore by the git and will not be stored on remote repository
 src/*
 password.txt
+whoareyou
 !src/style.css
 about.html  
 *.zip
